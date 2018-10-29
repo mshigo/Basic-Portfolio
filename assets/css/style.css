@@ -118,9 +118,9 @@
         margin-left: 10px;
      }
 
-#portfolio {     
-    color: #4aaaa5;
-    margin-left: 15px; 
+.portfolio-item {     
+    position: relative;
+    display: inline-block; 
      }
      
 a {
@@ -129,10 +129,10 @@ a {
 
     }
 
-   .imgs {
+   /* .imgs {
 
     
-   }
+   } */
 
  h1 {
    font-family:'Georgia', Times, Times New Roman, serif;
